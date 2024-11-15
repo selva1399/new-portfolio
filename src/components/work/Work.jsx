@@ -1,5 +1,5 @@
 import React from "react";
-import "./Work.css";
+import "./work.css";
 import Works from "./Works";
 
 const Work = () => {
