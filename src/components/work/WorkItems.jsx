@@ -8,7 +8,7 @@ const WorkItems = ({ item }) => {
       <div className="work__button-group">
         <div className="work__button">
           <a
-            href="https://github.com/selva1399/to-do-app"
+            href={item.git}
             className="work__button work__button-git"
             target="_blank"
           >
@@ -17,7 +17,7 @@ const WorkItems = ({ item }) => {
         </div>
         <div className="work__button">
           <a
-            href="https://your-app-todo.netlify.app/"
+            href={item.live}
             className="work__button work__button-live"
             target="_blank"
           >
