@@ -1,5 +1,6 @@
 import todo from "../../assets/to-do.png";
 import weatherApp from "../../assets/weather-app.png";
+import eShopper from "../../assets/e-shopper.png";
 
 export const projectsData = [
   {
@@ -17,6 +18,14 @@ export const projectsData = [
     git: "https://github.com/selva1399/weather-app",
     live: "https://yourforecast-web-app.netlify.app/",
     category: "frontend",
+  },
+  {
+    id: 3,
+    image: eShopper,
+    title: "E - Shopper",
+    git: "https://github.com/selva1399/e-commerce-app",
+    live: "https://e-shopper-x9zi.onrender.com/",
+    category: "full-stack",
   },
 ];
 
