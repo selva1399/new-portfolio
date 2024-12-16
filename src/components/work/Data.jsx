@@ -16,7 +16,7 @@ export const projectsData = [
     title: "Weather App",
     git: "https://github.com/selva1399/weather-app",
     live: "https://yourforecast-web-app.netlify.app/",
-    category: "full-stack",
+    category: "frontend",
   },
 ];
 
